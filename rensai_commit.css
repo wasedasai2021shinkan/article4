@@ -1,0 +1,97 @@
+@charset "UTF-8";
+body {
+    background-color: #eaf4fc
+}
+.titlephoto {
+    width: 100%;
+    padding-top: 50px;
+}
+ 
+
+
+.content {
+  color: #17183B;
+  font-family: serif;
+}
+
+.title img {
+  width: 100%;
+}
+
+.title {
+  margin-top: 50px;
+  text-align: center;
+}
+.text {
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 40px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #17183B;
+  margin-bottom: 30px;
+}
+.article-title {
+  text-align: center;
+  font-family: serif;
+}
+.text h1 {
+  font-size: 24px;
+  text-decoration: underline;
+}
+
+h2 {
+    color: #17183B;
+    font-size:22px;
+    font-family: serif;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    text-decoration: underline;
+}
+
+.table {
+    color: #17183B;
+    font-size:18px;
+    font-family: serif;
+}
+
+.saisho {
+  font-size:18px;
+  font-family: serif;
+  margin-top: 30px;
+}
+
+.name {
+  font-size:18px;
+  font-family: serif;
+  margin-top: 30px;
+}
+
+.questions {
+  font-size:18px;
+  font-family: serif;
+  margin-top: 30px;
+}
+
+.yuzukisan {
+  width: 40%;
+  margin: auto;
+}
+
+.saorin {
+  width: 100%;
+  margin: auto;
+}
+
+.saigo {
+  font-size:18px;
+  font-family: serif;
+  margin-top: 50px;
+}
+
+.matome {
+  font-size:18px;
+  font-family: serif;
+  margin-top: 30px;
+}
